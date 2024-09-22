@@ -42,7 +42,7 @@
     <junit.jupiter.version>5.10.0</junit.jupiter.version>
     <gwt.version>2.9.0</gwt.version>
     <servlet.version>5.0.0</servlet.version>
-    <websocket.version>2.0.0</websocket.version>
+    <websocket.version>2.2.0</websocket.version>
     <vaadin.version>8.12-SNAPSHOT</vaadin.version>
     <jaxb.version>4.0.0</jaxb.version>
     <jetty.version>11.0.15</jetty.version>
