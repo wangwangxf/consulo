@@ -45,7 +45,7 @@
     <websocket.version>2.0.0</websocket.version>
     <vaadin.version>8.12-SNAPSHOT</vaadin.version>
     <jaxb.version>4.0.0</jaxb.version>
-    <jetty.version>11.0.15</jetty.version>
+    <jetty.version>12.0.12</jetty.version>
     <swt.version>3.120.0</swt.version>
 
     <vaadin.flow.version>24.1.8</vaadin.flow.version>
